@@ -1,0 +1,19 @@
+.logo
+{
+    margin:auto;
+
+}
+.alllinnks
+{
+/* float: right; */
+font-size: large;
+margin: auto;
+}
+.mynav{
+    margin-left: 15px;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-decoration-line: none;
+
+}
